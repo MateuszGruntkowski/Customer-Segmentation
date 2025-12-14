@@ -1,0 +1,18 @@
+# Virtual Environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE - PyCharm
+.idea/
+external libraries/
+scratches and consoles/
+
+# OS
+.DS_Store
