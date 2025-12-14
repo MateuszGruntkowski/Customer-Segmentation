@@ -1,5 +1,0 @@
-cluster_id,name,description,strategy,color
-0,Casual Shoppers,Younger customers with low income and minimal spending. They browse frequently but rarely purchase.,Promotional offers, discount codes, free shipping. Remarketing campaigns with low purchase thresholds.,#FF6B6B
-1,VIP Customers,Most valuable segment with highest spending and income. They know what they want and buy without extensive research.,Premium loyalty programs, exclusive offers, early access to new products. Dedicated customer service.,#FFD700
-2,Browsers Without Conversion,Interested but not purchasing. Longest time since last purchase. High churn risk.,Urgent reactivation campaign, personalized offers, win-back emails. Research purchase barriers.,#FFA07A
-3,Digital Enthusiasts,Active omnichannel customers with high online purchases. Older segment comfortable with technology.,Optimize online UX, intelligent product recommendations, cross-selling and upselling.,#4ECDC4
